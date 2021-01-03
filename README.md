@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dark-Princ3" alt="Dark-Princ3" /> </p>
 
-- 🔭 Most Recent Project [DTU Notice Alert Bot](https://www.youtube.com/watch?v=I49bgB9XEFE)
+- 🔭 Most Recent Project [DTU Notice Alert Bot](https://github.com/Dark-Princ3/DTU-Alert-Bot)
 
 - 🌱 I’m currently learning **C++, Data Structures and Algorithms, Machine Learning**
 
