@@ -5,24 +5,33 @@
 
 - 🔭 Most Recent Project [DTU Notice Alert Bot](https://github.com/Dark-Princ3/DTU-Alert-Bot)
 
-- 🌱 I’m currently learning **C++, Data Structures and Algorithms, Machine Learning**
+- 🌱 I’m currently learning **C++, Data Structures and Algorithms, Backend Web Development, Node.js**
 
-<br />
-<br />
+- 😄 Webmaster of [Modding United](https://moddingunited.xyz), a website dedicated to providing Modded application for Android!
 
-<p align="left">Tried Hands on:  &nbsp; <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+- ⚡ Founder of [Modding United Community](https://telegram.dog/allapkforfree) at Telegram, with over 90k subscribers.
 
-<br />
-<br />
+### Tried Hands on -
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f64f3d8c8de94008bb98f13f35b6b7f89d3b0060/topics/c/c.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/f64f3d8c8de94008bb98f13f35b6b7f89d3b0060/topics/python/python.png" />
+<img align="left" alt="Telegram" width="26px" src="https://raw.githubusercontent.com/github/explore/f64f3d8c8de94008bb98f13f35b6b7f89d3b0060/topics/telegram/telegram.png" />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Princ3&repo=DTU-Alert-Bot)](https://github.com/Dark-Princ3/DTU-Alert-Bot)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Princ3&repo=X-tra-Telegram)](https://github.com/Dark-Princ3/X-tra-Telegram)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dark-Princ3&show_icons=true" alt="Dark-Princ3" /></p>
 
 <p align="center">
-<a href="t.me/anubisxx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Dark-Princ3" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/Dark-Princ3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Dark-Princ3" height="30" width="30" /></a>
-<a href="https://instagram.com/charming_guy0211" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aditya_njr" height="30" width="30" /></a>
+<a href="https://telegram.dog/anubisxx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Dark-Princ3" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/Prince-Mendiratta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Dark-Princ3" height="30" width="30" /></a>
+<a href="https://instagram.com/charming_guy0211" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Prince-Mendiratta" height="30" width="30" /></a>
 </p>
-
