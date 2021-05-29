@@ -1,15 +1,15 @@
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Prince Mendiratta</h2>
 <h4 align="center">A passionate developer and a Geek.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dark-Princ3" alt="Dark-Princ3" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prince-Mendiratta" alt="Prince" /> </p>
 
-- 🔭 Most Recent Project [DTU Notice Alert Bot](https://github.com/Dark-Princ3/DTU-Alert-Bot)
+- 🔭 Most Recent Project [DTU Notice Alert Bot](https://github.com/Prince-Mendiratta/DTU-Alert-Bot)
 
 - 🌱 I’m currently learning **C++, Data Structures and Algorithms, Backend Web Development, Node.js**
 
 - 😄 Webmaster of [Modding United](https://moddingunited.xyz), a website dedicated to providing Modded application for Android!
 
-- ⚡ Founder of [Modding United Community](https://telegram.dog/allapkforfree) at Telegram, with over 90k subscribers.
+- ⚡ Founder of [Modding United Community](https://telegram.dog/allapkforfree) at Telegram, with over 100k subscribers.
 
 ### Tried Hands on -
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -27,10 +27,10 @@
 <br />
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Princ3&repo=X-tra-Telegram)](https://github.com/Dark-Princ3/X-tra-Telegram)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Prince-Mendiratta&repo=X-tra-Telegram)](https://github.com/Prince-Mendiratta/X-tra-Telegram)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dark-Princ3&show_icons=true" alt="Dark-Princ3" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prince-Mendiratta&show_icons=true" alt="Prince" /></p>
 
 <p align="center">
 <a href="https://telegram.dog/anubisxx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Dark-Princ3" height="30" width="30" /></a>
