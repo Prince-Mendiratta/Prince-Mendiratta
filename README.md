@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prince-Mendiratta" alt="Prince" /> </p>
 
-- 🔭 Most Recent Project [DTU Notice Alert Bot](https://github.com/Prince-Mendiratta/DTU-Alert-Bot)
+- 🔭 Most Recent Project [BotsApp](https://github.com/BotsAppOfficial/BotsApp)
 
 - 🌱 I’m currently learning **C++, Data Structures and Algorithms, Backend Web Development, Node.js**
 
 - 😄 Webmaster of [Modding United](https://moddingunited.xyz), a website dedicated to providing Modded application for Android!
 
-- ⚡ Founder of [Modding United Community](https://telegram.dog/allapkforfree) at Telegram, with over 100k subscribers.
+- ⚡ Founder of [Modding United Community](https://telegram.dog/allapkforfree) at Telegram, with over 140k subscribers.
 
 ### Tried Hands on -
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -28,6 +28,7 @@
 <br />
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Prince-Mendiratta&repo=X-tra-Telegram)](https://github.com/Prince-Mendiratta/X-tra-Telegram)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BotsAppOfficial&repo=BotsApp)](https://github.com/BotsAppOfficial/BotsApp)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prince-Mendiratta&show_icons=true" alt="Prince" /></p>
