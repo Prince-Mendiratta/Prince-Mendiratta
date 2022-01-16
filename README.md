@@ -31,7 +31,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BotsAppOfficial&repo=BotsApp)](https://github.com/BotsAppOfficial/BotsApp)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prince-Mendiratta&show_icons=true" alt="Prince" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prince-Mendiratta&show_icons=true&include_all_commits=true&cache_seconds=86400" alt="Prince" /></p>
 
 <p align="center">
 <a href="https://telegram.dog/anubisxx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Dark-Princ3" height="30" width="30" /></a>
