@@ -1,4 +1,4 @@
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Prince Mendiratta</h2>
+<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Prince Mendiratta</h2>
 <h4 align="center">A passionate developer and a Geek.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prince-Mendiratta" alt="Prince" /> </p>
@@ -9,7 +9,16 @@
 
 - 😄 Webmaster of [Modding United](https://moddingunited.xyz), a website dedicated to providing Modded application for Android!
 
-- ⚡ Founder of [Modding United Community](https://telegram.dog/allapkforfree) at Telegram, with over 140k subscribers.
+- ⚡ Founder of [Modding United Community](https://telegram.dog/allapkforfree) at Telegram, with over 20`0k subscribers.
+
+## 🛠️ My favorite tools
+
+### 👨‍💻 Programming and markup languages
+
+<p>
+    
+    
+</p>
 
 ### Tried Hands on -
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
