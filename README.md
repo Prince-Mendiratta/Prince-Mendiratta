@@ -7,7 +7,7 @@
 
 - 😄 Webmaster of [Modding United](https://moddingunited.xyz), a website dedicated to providing Modded application for Android!
 
-- ⚡ Founder of [Modding United Community](https://telegram.dog/allapkforfree) at Telegram, with over 20`0k subscribers.
+- ⚡ Founder of [Modding United Community](https://telegram.dog/allapkforfree) at Telegram, with over 200k subscribers.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prince-Mendiratta" alt="Prince" /> </p>
 
