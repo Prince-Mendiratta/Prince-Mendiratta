@@ -10,6 +10,9 @@
 - ⚡ Founder of [Modding United Community](https://telegram.dog/allapkforfree) at Telegram, with over 200k subscribers.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prince-Mendiratta" alt="Prince" /> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Prince-Mendiratta&column=6&theme=onedark&no-frame=true&rank=-C"/>
+</a>
 
 ## 🛠️ Tried hands on
 
