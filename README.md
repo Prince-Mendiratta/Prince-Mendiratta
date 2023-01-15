@@ -1,18 +1,16 @@
 <h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Prince Mendiratta</h2>
 <h4 align="center">A passionate developer and a Geek.</h4>
 
-- 🔭 Most Recent Project [BotsApp](https://github.com/BotsAppOfficial/BotsApp)
+- 🔭 Most Recent Project [BotsApp](https://github.com/Prince-Mendiratta/BotsApp)
 
 - 🌱 I’m currently learning **Typescript**
 
-- 😄 Webmain of [Modding United](https://moddingunited.xyz), a website dedicated to providing Modded application for Android!
+- 😄 Webmaster of [Modding United](https://moddingunited.xyz), a website dedicated to providing Modded application for Android!
 
-- ⚡ Founder of [Modding United Community](https://telegram.dog/allapkforfree) at Telegram, with over 200k subscribers.
+- ⚡ Founder of [Modding United Community](https://telegram.dog/allapkforfree) at Telegram, with over 230k subscribers.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prince-Mendiratta" alt="Prince" /> </p>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Prince-Mendiratta&column=6&theme=onedark&no-frame=true&rank=-C"/>
-</a>
+<img width=800 src="https://github-profile-trophy-peach.vercel.app/?username=Prince-Mendiratta&column=6&theme=juicyfresh&no-frame=true&rank=-C"/>
 
 ## 🛠️ Tried hands on
 
@@ -84,7 +82,7 @@
 
 <hr />
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prince-Mendiratta&show_icons=true&count_private=true&theme=react&&hide_border=tru&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&cache_seconds=86400" alt="Prince's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Mendiratta&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=C" /> |
+| <img align="center" src="https://readme-stats-nine-mauve.vercel.app/api?username=Prince-Mendiratta&show_icons=true&count_private=true&theme=react&&hide_border=tru&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&cache_seconds=7200" alt="Prince's github stats" /> | <img align="center" src="https://readme-stats-nine-mauve.vercel.app/api/top-langs/?username=Prince-Mendiratta&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=C" /> |
 | ------------- | ------------- |
 
 [![@anubisxx's Holopin board](https://holopin.io/api/user/board?user=anubisxx)](https://holopin.io/@anubisxx)
