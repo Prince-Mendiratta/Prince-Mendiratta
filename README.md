@@ -82,7 +82,7 @@
 
 <hr />
 
-| <img align="center" src="https://readme-stats-nine-mauve.vercel.app/api?username=Prince-Mendiratta&show_icons=true&count_private=true&theme=react&&hide_border=tru&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&cache_seconds=7100" alt="Prince's github stats" /> | <img align="center" src="https://readme-stats-nine-mauve.vercel.app/api/top-langs/?username=Prince-Mendiratta&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=C" /> |
+| <img align="center" src="https://readme-stats-nine-mauve.vercel.app/api?username=Prince-Mendiratta&show_icons=true&count_private=true&theme=react&&hide_border=tru&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&cache_seconds=7100" alt="Prince's github stats" /> | <img align="center" src="https://readme-stats-nine-mauve.vercel.app/api/top-langs/?username=Prince-Mendiratta&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=C"/> |
 | ------------- | ------------- |
 
 [![@anubisxx's Holopin board](https://holopin.io/api/user/board?user=anubisxx)](https://holopin.io/@anubisxx)
