@@ -84,8 +84,13 @@
 
 <hr />
 
-| <img align="center" src="https://readme-stats-nine-mauve.vercel.app/api?username=Prince-Mendiratta&show_icons=true&count_private=true&theme=react&&hide_border=tru&bg_color=1F223E&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&cache_seconds=7100" alt="Prince's github stats" /> | <img align="center" src="https://readme-stats-nine-mauve.vercel.app/api/top-langs/?username=Prince-Mendiratta&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F223E&title_color=F85D7F&icon_color=F8D866&hide=C"/> |
+| <img align="center" src="https://readme-stats-nine-mauve.vercel.app/api?username=Prince-Mendiratta&show_icons=true&count_private=true&theme=react&&hide_border=tru&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&cache_seconds=7100" alt="Prince's github stats" /> | <img align="center" src="https://readme-stats-nine-mauve.vercel.app/api/top-langs/?username=Prince-Mendiratta&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=C"/> |
 | ------------- | ------------- |
+
+## Top projects I've created/contributed to
+| <img align="center" src="https://readme-stats-nine-mauve.vercel.app/api/pin/?username=Prince-Mendiratta&repo=BotsApp&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_owner=true&text_color=FFFFFF" alt="Prince's github stats" /> | <img align="center" src="https://readme-stats-nine-mauve.vercel.app/api/pin/?username=Prince-Mendiratta&repo=X-tra-telegram&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_owner=true&text_color=FFFFFF"/> |
+| ------------- | ------------- |
+| <img align="center" src="https://readme-stats-nine-mauve.vercel.app/api/pin/?username=Prince-Mendiratta&repo=DTU-Alert-Bot&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_owner=true&text_color=FFFFFF" alt="Prince's github stats" /> | <img align="center" src="https://readme-stats-nine-mauve.vercel.app/api/pin/?username=freeCodeCamp&repo=freeCodeCamp&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_owner=true&text_color=FFFFFF"/> |
 
 [![@anubisxx's Holopin board](https://holopin.io/api/user/board?user=anubisxx)](https://holopin.io/@anubisxx)
 
