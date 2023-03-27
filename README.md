@@ -12,7 +12,7 @@
 - AIR #6 on [Github](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/india.md)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prince-Mendiratta" alt="Prince" /> </p>
-<img width=800 src="https://github-profile-trophy-peach.vercel.app/?username=Prince-Mendiratta&column=6&theme=juicyfresh&no-frame=true&rank=-C"/>
+<img width=800 src="https://github-profile-trophy-peach.vercel.app/?username=Prince-Mendiratta&column=6&theme=juicyfresh&no-frame=true&rank=-B"/>
 
 ## 🛠️ Tried hands on
 
