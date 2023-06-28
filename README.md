@@ -9,7 +9,7 @@
 
 - ⚡ Founder of [Modding United Community](https://telegram.dog/allapkforfree) at Telegram, with over 230k subscribers.
 
-- AIR #6 on [Github](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/india.md)
+- AIR #6 on [Github](https://github.com/gayanvoice/top-github-users/blob/e3b2f63da37807c1f66cabed157fef38205222cb/markdown/followers/india.md)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prince-Mendiratta" alt="Prince" /> </p>
 <img width=800 src="https://github-profile-trophy-peach.vercel.app/?username=Prince-Mendiratta&column=6&theme=juicyfresh&no-frame=true&rank=-B"/>
