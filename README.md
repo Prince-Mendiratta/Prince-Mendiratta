@@ -14,6 +14,10 @@
 - AIR #6 on [Github](https://github.com/gayanvoice/top-github-users/blob/e3b2f63da37807c1f66cabed157fef38205222cb/markdown/followers/india.md)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prince-Mendiratta" alt="Prince" /> </p>
+<hr />
+
+| <img align="center" src="https://readme-stats-nine-mauve.vercel.app/api?username=Prince-Mendiratta&show_icons=true&count_private=true&theme=react&&hide_border=tru&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&cache_seconds=7200" alt="Prince's github stats" /> | <img align="center" src="https://readme-stats-nine-mauve.vercel.app/api/top-langs/?username=Prince-Mendiratta&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=C"/> |
+| ------------- | ------------- |
 <img width=800 src="https://github-profile-trophy-peach.vercel.app/?username=Prince-Mendiratta&column=6&theme=juicyfresh&no-frame=true&rank=-B"/>
 
 ## 🛠️ Tried hands on
@@ -83,11 +87,6 @@
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-F37626.svg?logo=ubuntu&logoColor=white" height="24"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" height="24"></a>
 </p>
-
-<hr />
-
-| <img align="center" src="https://readme-stats-nine-mauve.vercel.app/api?username=Prince-Mendiratta&show_icons=true&count_private=true&theme=react&&hide_border=tru&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&cache_seconds=7200" alt="Prince's github stats" /> | <img align="center" src="https://readme-stats-nine-mauve.vercel.app/api/top-langs/?username=Prince-Mendiratta&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=C"/> |
-| ------------- | ------------- |
 
 ## Top projects I've created/contributed to
 | <img align="center" src="https://readme-stats-nine-mauve.vercel.app/api/pin/?username=Prince-Mendiratta&repo=BotsApp&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_owner=true&text_color=FFFFFF" alt="BotsApp" /> | <img align="center" src="https://readme-stats-nine-mauve.vercel.app/api/pin/?username=Prince-Mendiratta&repo=X-tra-telegram&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_owner=true&text_color=FFFFFF"/> |
