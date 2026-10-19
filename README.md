@@ -1,7 +1,7 @@
 <h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Prince Mendiratta</h2>
 <h4 align="center">A passionate developer and a Geek.</h4>
 
-- 🚀 Building the next generation product building platform, [Creatr](https://getcreatr.xyz).
+- 🚀 Building the next generation product building platform, [Creatr](https://getcreatr.com).
 
 - 🔭 Most Recent Project [BotsApp](https://github.com/Prince-Mendiratta/BotsApp)
 
